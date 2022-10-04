@@ -2,11 +2,10 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/monitor.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
-
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+# Safe and reliable monitoring for the older adults among us
+We create safe and reliable monitoring solutions for the older adults among us. Our solutions are designed to be easy to use, reliable, and private. We are committed to providing the best possible solutions for our customers.
